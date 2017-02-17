@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Custom ListView Example</string>
+    <string name="action_setting">ตั้งค่า</string>
+</resources>
